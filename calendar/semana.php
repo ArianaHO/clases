@@ -10,6 +10,6 @@ function una_semana_despues($fecha){
     return date("l d F Y" , $date_unix) ;
 }
     echo una_semana_despues("29 de diciembre del 2019");
-    echo "probando";
+    echo "probando2";
     
 
