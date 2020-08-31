@@ -1,0 +1,20 @@
+table.calendar{
+    border:1px solid gray;
+    float: right;
+    border-collapse: collapse;
+}
+table.calendar td {
+    text-align: right;
+    padding: 4px;
+    border: 1px solid #eee;
+}
+
+table.calendar .week {
+    color: indigo; 
+    font-weight: bold;
+}
+
+table.calendar .sun {
+    color: red;
+    font-weight: bold;
+}
